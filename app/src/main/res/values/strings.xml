@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Issues</string>
+    <string name="action_settings">Settings</string>
+    <string name="try_again_later">Something went wrong, Try again later</string>
+</resources>
